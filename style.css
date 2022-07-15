@@ -1,0 +1,77 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 75px;
+}
+h2{
+    font-family: 'Inter', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 60px;
+}
+p{
+    font-size: 18px;
+    line-height: 28px;
+}
+.main-header-background{
+    background-image: linear-gradient(to left,rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("images/Rectangle\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 730px;
+}
+.main-header{
+    margin: 0px;
+    padding-top: 180px;
+    padding-left: 220px;
+    color: white;
+    width: 526px;
+    height: 150px;
+}
+.link-button{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: 500px;
+    background: #EF233C;
+    border: none;
+    margin-top: 5%;
+    padding: 16px 12px;
+    border-radius: 5px;
+}
+.flexible-container{
+    display: flex;
+    margin: 5px;
+
+}
+.blog-container{
+    padding: 5% 13%;
+    width: 493px;
+    height: 374px;
+    border-radius: 5px;
+}
+.image{
+    width: 500px;
+    margin-top: 5%;
+    padding-left: 13%;
+}
+#top-image{
+    padding: 15%;
+    background-image: url("images/Mask\ group.png");
+    background-repeat: no-repeat;
+}
+.blogs-center{
+    text-align: center;
+    margin-top: 5%;
+    padding: 0px 388px;
+}
+.resizing{
+    margin: 1% 10%;
+    padding: 0 5%;
+    background-color: antiquewhite;
+}
